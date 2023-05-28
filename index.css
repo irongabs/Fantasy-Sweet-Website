@@ -14,7 +14,7 @@ ul {
     padding: 20px;
 }
 
-a {
+nav a {
     color: #e7c3ea;
     text-decoration: none;
     font-size: 20px;
@@ -69,4 +69,13 @@ h1 {
 
 .dfn {
     padding: 50px 30px;
+}
+
+footer img {
+    width: 40px;
+    height: 40px;
+}
+
+footer a {
+    color: none;
 }
